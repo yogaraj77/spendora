@@ -1,6 +1,6 @@
-# Spindora - Expense Tracking Website
+# Spendora - Expense Tracking Website
 
-Welcome to Spendora, your ultimate solution for tracking expenses across multiple countries. Whether you're in India, the USA, UK, or Europe, Spindora simplifies the process of managing your finances. Here's how you can get started:
+Welcome to Spendora, your ultimate solution for tracking expenses across multiple countries. Whether you're in India, the USA, UK, or Europe, Spendora simplifies the process of managing your finances. Here's how you can get started:
 
 #live working model
 https://yogaraj77.github.io/spendora/
